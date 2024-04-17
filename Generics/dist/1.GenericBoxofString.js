@@ -13,3 +13,4 @@ let box3 = new Box({});
 box1.toString();
 box2.toString();
 box3.toString();
+//# sourceMappingURL=1.GenericBoxofString.js.map
